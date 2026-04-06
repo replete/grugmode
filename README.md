@@ -2,7 +2,7 @@
 
 **channel the [grug brained developer](https://grugbrain.dev/) for hard-won software wisdom**
 
-A [Claude Code](https://docs.anthropic.com/en/docs/claude-code) skill that channels the philosophy of the **grug brained developer** — practical grug-based engineering takes for eternel complexity spirit demon battle.
+A [Claude Code](https://docs.anthropic.com/en/docs/claude-code) skill that channels the philosophy of the **grug brained developer** — practical grug-based engineering takes
 
 ```
 /grug what is your take?
@@ -38,10 +38,11 @@ grug mode is **sticky** — once on, every reply comes from grug until you exit.
 > Marketplaces > 'replete/grug' > Add
 ```
 
-### `npx skills` CLI
+### `npx skills` (supports multiple agents)
 
 ```bash
 npx skills add replete/grug
+# waiting on bugfix: https://github.com/vercel-labs/skills/issues/851
 ```
 
 ### Global install
